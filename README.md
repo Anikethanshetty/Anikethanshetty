@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"> </a> </p>
+<p> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik1772&show_icons=true&locale=en&layout=compact" alt="karthik1772" /></p>
 
