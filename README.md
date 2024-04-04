@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <th><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width= 400 height = 250></th>
-    <th><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width= 400 height = 250></th>
+    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
   </tr>
 </table>
 </center>
