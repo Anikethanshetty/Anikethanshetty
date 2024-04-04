@@ -30,14 +30,11 @@ Here are some ideas to get you started:
 <table>
  
   <tr>
-    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" width= 400 height = 250></th>
+    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" width= 400 height = 250></th>
      <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
     
   </tr>
-  <tr>
-    <th><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width= 400 height = 250></th>
-   
-  </tr>
+
 </table>
 </center>
 <h3 align="left">Connect with me:</h3>
