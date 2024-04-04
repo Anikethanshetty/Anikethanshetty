@@ -27,15 +27,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shettyanikethand@gmail.com**
 
-<table>
- 
-  <tr>
-    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" width= 400 height = 250></th>
-     <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
-    
-  </tr>
 
-</table>
+ 
+  
+    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" width= 400 height = 250> <br><br>
+     <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250>
+    
+
 </center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
