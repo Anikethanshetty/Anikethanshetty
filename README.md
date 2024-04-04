@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate in learning fullStack development</h3>
  <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> </p> 
 
-<p align="left"> <img src="" alt="karthik1772" /> </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I’m+currently+learning+Frontend+Development
@@ -29,9 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **shettyanikethand@gmail.com**
 - <center>
 <table>
-  <tr>
-    <th colspan = 2><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="html"></th>
-  </tr>
+ 
   <tr>
     <th><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width= 400 height = 250></th>
     <th><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width= 400 height = 250></th>
