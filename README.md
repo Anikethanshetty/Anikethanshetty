@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
   
     <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" width= 400 height = 250> <br><br>
-    <p align="right"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></p> 
+    <p align="right" > <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250 border="3px solid white"></p> 
     
 
 </center>
