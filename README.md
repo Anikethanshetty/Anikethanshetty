@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **shettyanikethand@gmail.com**
-- <center>
+
 <table>
  
   <tr>
