@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="karthik1772"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhu_EeZPOgI8ZPbrX9iknC58EzEv0gsYk5AA&s" alt="karthik1772"/>
 <h1 align="center">Hi Folks👋, I'm Anikethan D Shetty</h1>
 <h3 align="center">A passionate in learning fullStack development</h3>
  <p align="left"> <img src="https://holopin.me/karthik1772" alt="karthik1772" /> </p> 
