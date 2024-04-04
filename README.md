@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik1772&label=Profile%20views&color=0e75b6&style=flat" alt="karthik1772" /> </p>
 
-- 🔭 I’m currently working on *Frontend Development**
+- 🔭
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I’m+currently+learning+Frontend+Development
+)](https://git.io/typing-svg)
 
 
 - 📫 How to reach me **shettyanikethand@gmail.com**
