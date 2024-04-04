@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <th colspan = 2><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="html"></th>
   </tr>
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width= 400 height = 250></th>
+    <th><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width= 400 height = 250></th>
     <th><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width= 400 height = 250></th>
   </tr>
   <tr>
