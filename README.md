@@ -31,11 +31,12 @@ Here are some ideas to get you started:
  
   <tr>
     <th><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width= 400 height = 250></th>
-    <th><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width= 400 height = 250></th>
+     <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
+    
   </tr>
   <tr>
     <th><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width= 400 height = 250></th>
-    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
+   
   </tr>
 </table>
 </center>
