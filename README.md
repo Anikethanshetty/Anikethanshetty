@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhu_EeZPOgI8ZPbrX9iknC58EzEv0gsYk5AA&s" alt="karthik1772"/>
 <h1 align="center">Hi Folks👋, I'm Anikethan D Shetty</h1>
 <h3 align="center">A passionate in learning FullStack Development</h3>
- <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400px" heigth="400px" /> </p> 
+ <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400px" heigth="300px" text-align="center" /> </p> 
 
 
 
