@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <table>
  
   <tr>
-    <th><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width= 400 height = 250></th>
+    <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" width= 400 height = 250></th>
      <th><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lamp%20shift.gif" width= 400 height = 250></th>
     
   </tr>
