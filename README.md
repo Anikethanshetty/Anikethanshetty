@@ -37,21 +37,25 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-<p style= "display:inline-block;" align="left">
- <a href="www.linkedin.com/in/anikethan-d-shetty-815260302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik .s. kashyap" height="30" width="40" /></a>
+<p  align="left">
+ <a href="www.linkedin.com/in/anikethan-d-shetty-815260302" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik .s. kashyap" height="30" width="40" /></a>
 
-<a href="https://instagram.com/anikethan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthik__177" height="30" width="40" /></a>
+<a href="https://instagram.com/anikethan_17" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthik__177" height="30" width="40" /></a>
 </p>
-
- 
 
 
 
 <p align="left">
 
-<h3 align="le">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p> </a> </p>
 
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?zoom=1.25&fit=500%2C500" alt="js" width="40" height="40"/> </a> > </p>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://i2.wp.com/thebamboocode.com/wp-content/uploads/2016/03/js-logo.png?zoom=1.25&fit=500%2C500" alt="js" width="40" height="40"/> </a> > </p>
 
 
