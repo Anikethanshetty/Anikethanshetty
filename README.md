@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines= I’m+currently+learning+Frontend+Development
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=currently+learning+Frontend+Development
 )](https://git.io/typing-svg)
 
 
