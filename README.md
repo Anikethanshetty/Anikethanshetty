@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anikethan D Shetty</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img src="https://images.playground.com/9259e0b13b584efca11fb527babedcd9.jpeg" alt="Alternative text" height="500px">
+<img src="https://images.playground.com/9259e0b13b584efca11fb527babedcd9.jpeg" alt="Alternative text" height="1000px" >
 
 - 🌱 I’m currently learning **backend development**
 -    I’m intersted in developing projects which can solve "REAL WORLD PROBLEMS"
