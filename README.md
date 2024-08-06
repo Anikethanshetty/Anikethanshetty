@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anikethan d shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikethan d shetty" height="30" width="40" /></a>
-<a href="https://instagram.com/anikethan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikethan_17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/anikethan-d-shetty-815260302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anikethan-d-shetty-815260302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
