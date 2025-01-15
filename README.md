@@ -4,8 +4,8 @@
 
 -💻 Tech Stack:
 
-    Frontend: React.js, Next.js, Tailwind CSS, CSS Animations
-    Backend: Node.js, Express.js, MongoDB, PostgreSql
+    <p>Frontend: React.js, Next.js, Tailwind CSS, CSS Animations
+    Backend: Node.js, Express.js, MongoDB, PostgreSql</p>
 
 - 📫 How to reach me **shettyanikethand@gmail.com**
 
