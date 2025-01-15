@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anikethan D Shetty</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img src="https://images.playground.com/9259e0b13b584efca11fb527babedcd9.jpeg" alt="Alternative text" height="1000px" >
 
-- 🌱 I’m currently learning **backend development**
--    I’m intersted in developing projects which can solve "REAL WORLD PROBLEMS"
+-💻 Tech Stack:
+
+    Frontend: React.js, Next.js, Tailwind CSS, CSS Animations
+    Backend: Node.js, Express.js, MongoDB, PostgreSql
 
 - 📫 How to reach me **shettyanikethand@gmail.com**
 
